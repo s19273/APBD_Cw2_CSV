@@ -1,0 +1,26 @@
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.exe
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.deps.json
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.runtimeconfig.json
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.runtimeconfig.dev.json
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.dll
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.pdb
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.csprojAssemblyReference.cache
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.csproj.CoreCompileInputs.cache
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.AssemblyInfoInputs.cache
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.AssemblyInfo.cs
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.dll
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.pdb
+C:\Users\HubertJ\Desktop\cw2-master\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.genruntimeconfig.cache
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.exe
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.deps.json
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.runtimeconfig.json
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.runtimeconfig.dev.json
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.dll
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\bin\Debug\netcoreapp3.1\cw2.pdb
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.csprojAssemblyReference.cache
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.csproj.CoreCompileInputs.cache
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.AssemblyInfoInputs.cache
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.AssemblyInfo.cs
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.dll
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.pdb
+C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Cw2_CSV\cw2\cw2\obj\Debug\netcoreapp3.1\cw2.genruntimeconfig.cache
